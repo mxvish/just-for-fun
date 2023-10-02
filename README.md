@@ -8,4 +8,6 @@ just for fun
 curl -s https://raw.githubusercontent.com/dylanaraps/neofetch/master/neofetch | bash
 ```
 
+- Example
+
 <img src="2023-10-02-113640_890x492_scrot.png">
